@@ -1,6 +1,5 @@
 require "test/unit"
 require_relative "./Piglatin"
-puts "test"
 
 class TestPiglatin < Test::Unit::TestCase
 
