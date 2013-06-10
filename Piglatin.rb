@@ -20,8 +20,5 @@ class PigLatinConverter
 	end
 end
 
-# Class method way (self.convert)
-puts "Please enter a word to be translated"
-word = gets.chomp
-pl = PigLatinConverter.new.convert(word)
-puts pl
+
+
